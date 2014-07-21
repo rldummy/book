@@ -1,3 +1,5 @@
 This is chapter five
 
-modified conflict solved [rleano: modifying this line]
+modified conflict solved [rleano & rldummy: modifying this line]
+
+rldummy: creating new line in the end
